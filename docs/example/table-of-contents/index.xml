@@ -72,7 +72,9 @@ app端注册的用户需要进行审核，审核通过后才可以查看对应�
       
       <guid>https://dovezat.github.io/docs/example/table-of-contents/bluetooth/</guid>
       <description>#蓝牙开门
-蓝牙靠近开门#蓝牙开门需要开启蓝牙 允许app后台运行即可以靠近自动开门 蓝牙开门有效距离需要在5米以内 </description>
+蓝牙靠近开门#适用门和车闸
+查看演示视频
+蓝牙开门需要开启蓝牙 允许app后台运行即可以靠近自动开门 蓝牙开门有效距离需要在5米以内 </description>
     </item>
     
   </channel>
